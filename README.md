@@ -1,0 +1,2 @@
+# TrainingAssignment
+assignments regarding Datastructure
